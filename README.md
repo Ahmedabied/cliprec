@@ -6,7 +6,7 @@
 
 ###### Download :
 ```
-git clone https://github.com/Ahmedabied/topspam.git
+git clone https://github.com/Ahmedabied/cliprec.git
 pip install pyperclip
 
 ```
